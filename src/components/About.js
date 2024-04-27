@@ -143,43 +143,43 @@ const About = () => {
                <div className="card-body" >
                 <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>Full stack web development</h4>
                 <h6 className="card-text">Udemy</h6>
-               <a href="" className="btn" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
+               <a href="https://drive.google.com/file/d/1ff2ijsmiZUh6bbBbe5ltsqdcHHgZ-2wA/view?usp=drive_link" className="btn" target="_blank" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
              </div>
            </div>
          </div>
               <div className="" style={{ marginTop: '50px' }} data-aos="fade-right">
                 <div className="card" style={{ marginLeft: '40px' }}>
                   <div className="card-body" >
-                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>Full stack web development</h4>
-                    <h6 className="card-text">Udemy</h6>
-                    <a href="" className="btn" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
+                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>Java</h4>
+                    <h6 className="card-text">HackerRank</h6>
+                    <a href="https://drive.google.com/file/d/1a0xV0e_3PJrFLu0s0Hqo96SEeCB_Y6j_/view?usp=drive_link" className="btn" target="_blank" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
                   </div>
                 </div>
               </div>
               <div className="" style={{ marginTop: '50px' }} data-aos="fade-right">
                 <div className="card" style={{ marginLeft: '40px' }}>
                   <div className="card-body" >
-                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>Full stack web development</h4>
-                    <h6 className="card-text">Udemy</h6>
-                    <a href="" className="btn" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
+                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>Javascript</h4>
+                    <h6 className="card-text">HackerRank</h6>
+                    <a href="https://drive.google.com/file/d/1fXOovzhzRJoA7TLGRa39W115QPOSemF3/view?usp=drive_link" className="btn" target="_blank" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
                   </div>
                 </div>
               </div>
               <div className="" style={{ marginTop: '50px' }} data-aos="fade-right">
                 <div className="card" style={{ marginLeft: '40px' }}>
                   <div className="card-body" >
-                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>Full stack web development</h4>
-                    <h6 className="card-text">Udemy</h6>
-                    <a href="" className="btn" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
+                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>SQL</h4>
+                    <h6 className="card-text">Linkedin</h6>
+                    <a href="https://drive.google.com/file/d/1a5SS8XJdzYFOnWpZ-8Ysi0fM1MXuZn-u/view?usp=drive_link" className="btn"  target="_blank" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
                   </div>
                 </div>
               </div>
               <div className="" style={{ marginTop: '50px',  marginBottom:'100px' }} data-aos="fade-right">
                 <div className="card" style={{ marginLeft: '40px' }}>
                   <div className="card-body" >
-                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>Full stack web development</h4>
-                    <h6 className="card-text">Udemy</h6>
-                    <a href="" className="btn" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
+                    <h4 className="card-title" style={{ fontFamily: '"Merriweather", serif', fontWeight: '1000', color: '#636363' }}>UX Design</h4>
+                    <h6 className="card-text">CodeChef</h6>
+                    <a href="https://drive.google.com/file/d/1h7-5W0BMZp4J5ZqjfUJVPRaXLnTegf-8/view?usp=drive_link" className="btn" target="_blank" style={{ backgroundColor: '#fcf6d5' }}>LEARN MORE</a>
                   </div>
                 </div>
               </div>
