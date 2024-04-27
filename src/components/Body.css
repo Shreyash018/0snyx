@@ -1,0 +1,33 @@
+.content-loading {
+    display: none;
+  }
+  
+  .content-loaded {
+    display: flex;
+  }
+  
+  .slide-in-left {
+    animation: slideInLeft 0.5s ease forwards;
+  }
+  
+  .slide-in-right {
+    animation: slideInRight 0.5s ease forwards;
+  }
+  
+  @keyframes slideInLeft {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes slideInRight {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }

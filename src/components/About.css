@@ -1,0 +1,17 @@
+.content-loading {
+  display: none;
+}
+
+.content-loaded {
+  display: flex;
+}
+
+.left-content {
+  animation: slideInLeft 0.5s ease forwards;
+}
+
+.right-content {
+  animation: slideInRight 0.5s ease forwards;
+}
+
+ 

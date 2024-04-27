@@ -1,0 +1,21 @@
+.link-with-hover-effect {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: #333; /* Set your desired text color */
+  }
+  
+  .link-with-hover-effect::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 0;
+    background-color: black; /* Set your desired background color */
+    transition: height 0.3s ease-out;
+  }
+  
+  .link-with-hover-effect.hovered::before {
+    height: 100%;
+  }
