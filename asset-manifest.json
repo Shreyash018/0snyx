@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/0snyx/static/css/main.441b7a44.css",
+    "main.js": "/0snyx/static/js/main.45033a62.js",
+    "static/media/message.gif": "/0snyx/static/media/message.585851e7193ecbb17cda.gif",
+    "static/media/chilling.gif": "/0snyx/static/media/chilling.cb4e8958ae697d40271a.gif",
+    "static/media/proj2.png": "/0snyx/static/media/proj2.a6ab74713fddbd6541a7.png",
+    "static/media/netflix.png": "/0snyx/static/media/netflix.7022a556e988e8557ad4.png",
+    "static/media/md.gif": "/0snyx/static/media/md.fb9e24f7d430196a775b.gif",
+    "static/media/inst.png": "/0snyx/static/media/inst.ac298628cfb793db5e6b.png",
+    "static/media/contact.png": "/0snyx/static/media/contact.e555fbd25ee7c68e65e0.png",
+    "static/media/link.png": "/0snyx/static/media/link.a041e701588882a0c564.png",
+    "static/media/banner.png": "/0snyx/static/media/banner.f61f14299f47ed285071.png",
+    "static/media/gym.png": "/0snyx/static/media/gym.fdcb2432df9bfcfcba2c.png",
+    "static/media/drum.png": "/0snyx/static/media/drum.4339a6faecf1beb5e069.png",
+    "static/media/proj1.png": "/0snyx/static/media/proj1.d499d3edf7a37fae91b3.png",
+    "static/media/react.png": "/0snyx/static/media/react.10728590dca7d3f405f5.png",
+    "static/media/dark.png": "/0snyx/static/media/dark.1872c3e1a60c9ac752e0.png",
+    "static/media/bootstrap.png": "/0snyx/static/media/bootstrap.e499ca859c0bb8691132.png",
+    "static/media/githubb.png": "/0snyx/static/media/githubb.fbf43ddeda79f711b73c.png",
+    "static/media/sql.png": "/0snyx/static/media/sql.18afa84bae7c5981d42c.png",
+    "static/media/uxui.png": "/0snyx/static/media/uxui.57d186c07faa1e50d659.png",
+    "static/media/Git.png": "/0snyx/static/media/Git.16d515833486b1455465.png",
+    "static/media/firebase.png": "/0snyx/static/media/firebase.0ccac4e5a2ee510711bb.png",
+    "static/media/giti.png": "/0snyx/static/media/giti.12c2b03e17e1ab8203b2.png",
+    "static/media/seo.png": "/0snyx/static/media/seo.3ad61dea449c4f6e91a4.png",
+    "static/media/js.png": "/0snyx/static/media/js.3eeeff98a48583b1acff.png",
+    "static/media/java.png": "/0snyx/static/media/java.5cd5036f52b5fac470ca.png",
+    "static/media/css.png": "/0snyx/static/media/css.6f962dcc205c41fe087c.png",
+    "static/media/twt.png": "/0snyx/static/media/twt.cc956138c7b471d10ede.png",
+    "static/media/html.png": "/0snyx/static/media/html.c9781a8d189ee2ee420d.png",
+    "static/media/dbank.png": "/0snyx/static/media/dbank.b5d6d0760ae5f4fd3721.png",
+    "static/media/instagram.png": "/0snyx/static/media/instagram.bc603acad2a8cb3bd098.png",
+    "static/media/twitter.png": "/0snyx/static/media/twitter.8e65601e69067aadfe55.png",
+    "index.html": "/0snyx/index.html",
+    "main.441b7a44.css.map": "/0snyx/static/css/main.441b7a44.css.map",
+    "main.45033a62.js.map": "/0snyx/static/js/main.45033a62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441b7a44.css",
+    "static/js/main.45033a62.js"
+  ]
+}
